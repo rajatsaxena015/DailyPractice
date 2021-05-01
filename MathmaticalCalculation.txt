@@ -9,3 +9,6 @@ return null;
 
 Divide(a,b)
 return null;
+
+Square(a,b)
+return null;
