@@ -15,3 +15,5 @@ return null;
 
 
 specifying the divide function more elaboratly.
+
+specifying the multiply function more elaboratly.
