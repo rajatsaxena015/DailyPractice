@@ -12,3 +12,6 @@ return a/b;
 
 Square(a,b)
 return null;
+
+
+specifying the divide function more elaboratly.
