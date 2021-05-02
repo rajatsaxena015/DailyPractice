@@ -8,7 +8,7 @@ Multiply(a,b)
 return null;
 
 Divide(a,b)
-return null;
+return a/b;
 
 Square(a,b)
 return null;
